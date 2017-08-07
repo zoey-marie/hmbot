@@ -1,0 +1,21 @@
+{
+  "name": "hackmudbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hmbot.js",
+  "scripts": {
+    "install": "napa DrizzlyBear/hackmud_chat_web"
+  },
+  "author": "",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "active-window": "^0.1.0",
+    "mongodb": "^2.2.30",
+    "node-process-windows": "0.0.2",
+    "request": "^2.81.0",
+    "robotjs": "^0.4.7"
+  },
+  "devDependencies": {
+    "napa": "^3.0.0"
+  }
+}
